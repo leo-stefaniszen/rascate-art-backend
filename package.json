@@ -1,0 +1,27 @@
+{
+  "name": "rascate-art",
+  "version": "0.0.1",
+  "description": "\"Rascate Art\" es un proyecto tipo e-commerce.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo-stefaniszen/rascate-art-backend.git"
+  },
+  "keywords": [
+    "ecommerce"
+  ],
+  "author": "leo-stefaniszen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leo-stefaniszen/rascate-art-backend/issues"
+  },
+  "homepage": "https://github.com/leo-stefaniszen/rascate-art-backend#readme",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "nodemon": "^3.1.14"
+  }
+}
